@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    font-family: monospace;
+    font-size: 28px;
+    background-color: rgb(248, 245, 242);
+}
+
+nav {
+    padding: 10px 24px;
+}
+
+main {
+    box-sizing: border-box;
+    max-width: 900px;
+    padding: 8px 24px;
+    margin: 0 auto;
+}
+
+figure {
+    margin: 0;
+}
+
+figure img {
+    max-width: 800px;
+    width: 100%;
+    display: block;
+    margin: auto;
+}
+
+figcaption {
+    text-align: center;
+    font-size: 20px;
+}
